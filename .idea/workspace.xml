@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="971f6af5-261b-4ac4-94c5-bcbb7cd03c2b" name="Default" comment="new website">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact/index.html" />
+    <list default="true" id="971f6af5-261b-4ac4-94c5-bcbb7cd03c2b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/links/index.html" afterPath="$PROJECT_DIR$/links/index.html" />
     </list>
     <ignored path="Intelli.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -762,7 +760,7 @@
       <workItem from="1453972005895" duration="312000" />
       <workItem from="1453972345276" duration="1721000" />
       <workItem from="1454464533534" duration="1660000" />
-      <workItem from="1457776827715" duration="8876000" />
+      <workItem from="1457776827715" duration="8882000" />
     </task>
     <task id="LOCAL-00001" summary="first commit&#10;">
       <created>1453972695555</created>
@@ -800,11 +798,17 @@
       <option name="project" value="LOCAL" />
       <updated>1457785840842</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="new website">
+      <created>1457787353247</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1457787353247</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12569000" />
+    <option name="totallyTimeSpent" value="12575000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -960,7 +964,7 @@
         <state vertical-scroll-proportion="38.67857">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1457787323757" expanded="true" signature="51703:51734" placeholder="..." />
+            <marker date="1457787348887" expanded="true" signature="51726:51757" placeholder="..." />
           </folding>
         </state>
       </provider>
